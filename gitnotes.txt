@@ -8,3 +8,4 @@
    - git push -u origin master
    - git log
    - git --help
+I am making this change.
